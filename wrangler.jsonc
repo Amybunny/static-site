@@ -1,5 +1,9 @@
 {
+  "$schema": "node_modules/wrangler/config-schema.json",
   "name": "static-site",
   "compatibility_date": "2026-10-30",
+  "assets": {
+    "directory": "./"
+  },
   "previews": {}
 }
