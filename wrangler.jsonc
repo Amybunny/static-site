@@ -3,7 +3,8 @@
   "name": "static-site",
   "compatibility_date": "2026-10-30",
   "assets": {
-    "directory": "./"
+    "directory": "./public",
+    "binding": "ASSETS"
   },
   "previews": {}
 }
